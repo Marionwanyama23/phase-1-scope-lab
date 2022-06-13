@@ -1,14 +1,14 @@
-var customerName = "bob";
+var customerName = 'bob'
+const leastFavouriteCustomer = 'some initiall value'
 function upperCaseCustomerName() {
-    customerName = customerName.toUpperCase();
-};
-function setBestCustomer() {
-    setBestCustomer = "not bob"
+    customerName = customerName.toLocaleUpperCase()
 }
-function overwriteBestCustomer() {
-    setBestCustomer = "maybe bob"
+function setBestCustomer(){
+    bestCustomer = 'not bob'
 }
-const leastFavoriteCustomer = "initial value"
-function changeLeastFavoriteCustomer() {
-    leastFavoriteCustomer = "initial value"
+function overwriteBestCustomer(){
+    bestCustomer = 'maybe bob'
+}
+function changeLeastFavoriteCustomer(){
+    leastFavouriteCustomer = 'billy'
 }
