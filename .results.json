@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-13T06:24:04.969Z",
-    "end": "2022-06-13T06:24:05.516Z",
-    "duration": 547
+    "start": "2022-06-23T05:20:58.695Z",
+    "end": "2022-06-23T05:20:59.295Z",
+    "duration": 600
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -22,8 +22,8 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -31,7 +31,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -40,7 +40,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -49,7 +49,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -62,7 +62,7 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -71,8 +71,8 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -80,7 +80,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -89,7 +89,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -98,7 +98,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "file": "/home/marionwanyama/phase-1-scope-lab/test/indexTest.js",
+      "file": "/home/marionwanyama/phase1labs/phase-1-scope-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
